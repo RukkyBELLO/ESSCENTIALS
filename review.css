@@ -1,0 +1,8 @@
+.reviews-class{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    max-height: 200px;
+    image-resolution: 20rem;
+    color: rgb(170, 126, 112);
+}

@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    text-decoration-color: blue;
+    max-width: 500px;
+
+    color:blue;
+}
+
+.contact-button{
+    size: 50px;
+    color: blue;
+}
+
+h1{
+color: blue;
+}
